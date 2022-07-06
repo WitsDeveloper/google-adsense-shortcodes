@@ -13,6 +13,6 @@
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 ## What the code does
-* Simulates how to get geocoding data from Google Maps
-* Adds autocomplete feature on the address field
-* Show selected address on the map
+* Allows user to enter their Google AdSense publication ID
+* Generates shortcodes that can be placed on different parts of the website by just addint the ad type and slot ID
+* Make it possible for user to choose where the ads will be placed on their website
