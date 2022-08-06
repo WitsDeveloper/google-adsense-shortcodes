@@ -13,6 +13,8 @@
  * Text Domain: google-adsense-shortcodes
  */
 
+if (!defined('ABSPATH')) exit; // Exit if accessed directly
+
 class GoogleAdsenseShortcodes {
  /* Holds the values to be used in the fields callbacks */
  private $options;
